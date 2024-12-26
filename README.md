@@ -1,6 +1,6 @@
 # Mastermind Game
 
-Selected exercise from the 'Computer Structure' course within the Bachelor's degree in Software Development at Universitat Oberta de Catalunya (UOC). This project consisted in programming a set of subroutines in assembly language x86_64, which are called from a C program. 
+Selected exercise from the 'Computer Structure' course within the Bachelor's degree in Software Development. This project consisted in programming a set of subroutines in assembly language x86_64, which are called from a C program. 
 
 ## Description
 
