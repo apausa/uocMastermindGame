@@ -1,14 +1,14 @@
-# uocComputerStructure
+# Mastermind Game
 
-Exercise for the 'Computer Structure' course within the Bachelor's degree in Software Development at Universitat Oberta de Catalunya (UOC).
+Selected exercise from the 'Computer Structure' course within the Bachelor's degree in Software Development at Universitat Oberta de Catalunya (UOC).
 
 The practical work described below consists in programming a set of subroutines in assembly language x86_64, which must be called from a C program.
 
-## Mastermind
+## Description
 
 The project consists in implementing the Mastermind game, where a 5 digits secret  code between 0 and 9 must be typed, and then, type 5-digit combinations (tries) until  discovering the secret code or run out the maximum number of tries. 
  
-## First part
+### First part
 
 In the first part, only each try is compared with the secret code and indicates how many digits are in the right place (hits). 
 
@@ -22,7 +22,7 @@ The subroutines implemented in assembly language for this part are:
 - printHitsP1 
 - checkPlayP1 
  
-## Second part
+### Second part
 
 In the second part, the game will have all the functionalities, it will be necessary to indicate for each try how many digits of the secret code are correct, and if they are hits in place or hits out of place. 
  
