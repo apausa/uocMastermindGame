@@ -2,9 +2,11 @@
 
 Exercise for the 'Computer Structure' course within the Bachelor's degree in Software Development at Universitat Oberta de Catalunya (UOC).
 
+The practical work described below consists in programming a set of subroutines in assembly language x86_64, which must be called from a C program.
+
 ## Mastermind
 
-The practical work consists in implementing the Mastermind game, where a 5 digits secret  code between 0 and 9 must be typed, and then, type 5-digit combinations (tries) until  discovering the secret code or run out the maximum number of tries. 
+The project consists in implementing the Mastermind game, where a 5 digits secret  code between 0 and 9 must be typed, and then, type 5-digit combinations (tries) until  discovering the secret code or run out the maximum number of tries. 
  
 ## First part
 
