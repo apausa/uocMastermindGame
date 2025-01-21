@@ -1,6 +1,6 @@
 # Mastermind Game
 
-Selected exercise from the 'Computer Structure' course within the Bachelor's degree in Software Development. This project consisted in programming a set of subroutines in assembly language x86_64, which are called from a C program. 
+Mastermind game from the 'Computer Structure' course within the Bachelor's degree in Software Development. This project consisted in programming a set of subroutines in assembly language x86_64, which are called from a C program.
 
 ## Description
 
